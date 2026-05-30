@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productfave",
+        "uuid": 7071159,
+        "checksum": "8kyrq8x"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
